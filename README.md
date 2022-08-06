@@ -1,14 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name:Deepanshu Agarwal 
+- University Roll No.: 1900290000024
+- Branch: Civil Engineering
+- Section: A
+- Preferred Programming Language: C++,Python
 
 ## Coding Profiles
 - LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- HackerRank: [@deepanshu_1923c2](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
