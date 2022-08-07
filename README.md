@@ -7,7 +7,7 @@
 - Preferred Programming Language: C++,Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
+- LeetCode: [Deepanshu_Agarwal](https://leetcode.com/YourLeetCodeUserName/)
 - HackerRank: [@deepanshu_1923c2](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
